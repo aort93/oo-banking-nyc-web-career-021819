@@ -50,6 +50,7 @@ describe "BankAccount" do
     end
   end
 
+
   describe '#close_account' do
     it "can close its account" do
       avi.close_account
